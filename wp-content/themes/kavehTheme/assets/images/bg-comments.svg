@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="347" height="69" viewBox="0 0 347 69">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="544" width="347" height="69" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="bg-comments" transform="translate(-544)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <path id="bg" d="M0,0H537.341C672.015,0,654.09,65.922,717.049,65.922S763.7,0,899.77,0H1440V540H0Z" fill="#26304e"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.326" height="46.855" viewBox="0 0 38.326 46.855">
+  <g id="security" transform="translate(0.75 0.756)">
+    <path id="Stroke-1" d="M35.826,6.448a2.613,2.613,0,0,1,1.75,2.467V25.17a18.675,18.675,0,0,1-4.567,12.24,18.651,18.651,0,0,1-5.292,4.075L19.177,46.1l-8.554-4.615a18.64,18.64,0,0,1-5.3-4.075A18.679,18.679,0,0,1,.75,25.161V8.915A2.613,2.613,0,0,1,2.5,6.448L18.3.9a2.617,2.617,0,0,1,1.733,0Z" transform="translate(-0.75 -0.749)" fill="none" stroke="#ff2f60" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <path id="Stroke-3" d="M5.823,12.725l4.541,4.543,9.355-9.355" transform="translate(6.352 9.279)" fill="none" stroke="#ff2f60" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd" opacity="0.4"/>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+
+@font-face {
+    font-family: 'IRANYekanXVF';
+    src: url('IRANYekanXVF.woff') format('woff-variations'),
+    /* will be the standard and works in Safari now */
+    url('IRANYekanXVF.woff') format('woff');
+    /* for the other supporting browsers */
+    font-weight: 100 1000;
+    font-display: fallback;
+
+}
+
+body,h1, h2, h3, h4, h5, h6,input, textarea,a,ul,li,button,form, p, rs-layer {
+font-family: 'IRANYekanXVF'!important;
+-moz-font-feature-settings: "ss02" !important;
+-webkit-font-feature-settings: "ss02" !important;
+font-feature-settings: "ss02" !important;
+letter-spacing: -0.2px;
+font-variation-settings: "dots" 1 !important;
+}
+h1,h2,h3 {
+	font-variation-settings: "wght" 750 "dots" 1 !important;
+}
+h4,h5,h6{
+	font-variation-settings: "wght" 550 "dots" 1 !important;
+}
+p{
+	font-variation-settings: "wght" 300 "dots" 1 !important;
+}

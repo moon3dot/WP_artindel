@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47.433" height="43.914" viewBox="0 0 47.433 43.914">
+  <g id="wallet" transform="translate(0.75 0.75)">
+    <path id="Stroke-1" d="M28.575,18.931H18.86a6.459,6.459,0,1,1,0-12.918h9.716" transform="translate(17.358 8.418)" fill="none" stroke="#ff2f60" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <line id="Stroke-3" x1="0.748" transform="translate(36.569 20.743)" fill="none" stroke="#ff2f60" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Stroke-5" d="M12.594,0H33.339A12.6,12.6,0,0,1,45.933,12.594V29.819A12.6,12.6,0,0,1,33.339,42.414H12.594A12.6,12.6,0,0,1,0,29.819V12.594A12.6,12.6,0,0,1,12.594,0Z" transform="translate(0 0)" fill="none" stroke="#ff2f60" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <line id="Stroke-7" x2="12.957" transform="translate(10.885 10.892)" fill="none" stroke="#ff2f60" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+  </g>
+</svg>

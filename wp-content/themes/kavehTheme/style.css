@@ -1,0 +1,145 @@
+   /*
+    Theme Name: قالب کاوه
+    description: قالب کاوه بدون شک برترین قالب فروشگاهی تولید شده در صنعت وردپرس ایران می باشد
+    Theme URI: rtl-theme.com/author/moein757
+    Version: 1.4
+    Author: معین وردپرس
+    Author URI: rtl-theme.com/author/moein757
+    */
+
+.popup-content:before {
+    content: "";
+    border: 1px solid #ffffff3d;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    -webkit-transform: translate(-50%,27px);
+    -moz-transform: translate(-50%,27px);
+    -ms-transform: translate(-50%,27px);
+    -o-transform: translate(-50%,27px);
+    transform: translate(-50%,27px);
+    -webkit-border-radius: 0 0 30px 30px;
+    -moz-border-radius: 0 0 30px 30px;
+    border-radius: 0 0 30px 30px;
+    width: 65%;
+    height: 27px;
+    -webkit-box-shadow: inset 0 80px 99px rgba(0,0,0,.15);
+    -moz-box-shadow: inset 0 80px 99px rgba(0,0,0,.15);
+    box-shadow: inset 0 80px 99px rgba(0,0,0,.15);
+    background-color: rgba(255,255,255,.1);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+}
+.popup-content:after {
+    content: "";
+    position: absolute;
+    width: 86px;
+    height: 33px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+    -webkit-transform: translate(-50%,56px);
+    -moz-transform: translate(-50%,56px);
+    -ms-transform: translate(-50%,56px);
+    -o-transform: translate(-50%,56px);
+    transform: translate(-50%,56px);
+    z-index: -2;
+    bottom: 16px;
+    left: 50%;
+}
+
+.woocommerce-pagination {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+a.page-numbers {
+    margin: 4px;
+    padding: 8px 15px 8px 15px;
+    color: #000;
+    background-color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 10px 50px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 10px 50px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 10px 50px rgba(0, 0, 0, 0.2);
+}
+span.page-numbers.current {
+    margin: 4px;
+    padding: 8px 15px 8px 15px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 10px 50px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 10px 50px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 10px 50px rgba(0, 0, 0, 0.2);
+}
+.woocommerce nav.woocommerce-pagination ul {
+    border: none;
+}
+
+.woocommerce .woocommerce-pagination ul.page-numbers li, .woocommerce-page .woocommerce-pagination ul.page-numbers li {
+    display: inline-block;
+    border: none;
+}
+.woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current {
+    color: #fff;
+    padding: 10px 15px 10px 15px;
+    margin: 5px;
+}
+.woocommerce nav.woocommerce-pagination ul li a, .woocommerce nav.woocommerce-pagination ul li span {
+    padding: 10px 15px 10px 15px;
+    background: #fff;
+	 margin: 5px;
+    border-radius: 10px;
+	-webkit-box-shadow:unset;
+    -moz-box-shadow: unset;
+    box-shadow: unset;
+	
+}
+.woocommerce .woocommerce-form-login .woocommerce-form-login__submit {
+    float: left !important;
+    margin-left: 0 !important;
+    padding: 15px 35px 16px 35px !important; 
+    border-radius: 100px !important;
+}
+.tamsho{
+    font-weight: 900;
+    font-size: 22px;
+    margin-bottom: unset;
+}
+.boostify-menu .menu-item-has-children > a:after {
+    content: '\f3d0' !important;
+    font-family: "Ionicons" !important;
+    padding-right: 5px !important;
+}
+.detail-blog-content ul li{
+	list-style:unset;
+	list-style-type:disc !important;
+	margin-right:30px;
+	line-height:35px;
+}
+.detail-blog-content p, .detail-blog-content h1, .detail-blog-content h2, .detail-blog-content h3, .detail-blog-content h4, .detail-blog-content h5, .detail-blog-content h6 {
+    margin-bottom: 10px;
+}
+span.position-absolute.top-0.end-0.bg-porp.me-3.mt-3 {
+    background: #c1c1c1;
+    padding: 3px 3px 3px 8px;
+    top: -7px !important;
+    border-radius: 7px;
+}
+.detail-product-info .gallery-image-origin img {
+    width: 90%;
+    max-height: 360px;
+    object-fit: contain;
+}
+.detail-product-info .gallery-image-item img{
+	max-height:110px;
+	object-fit:contain;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	display:inline-block
+}
